@@ -65,7 +65,6 @@ Edit
 ### Steps
 
 ```bash
-git clone https://github.com/yourusername/portfolio-website.git
 cd portfolio-website
 npm install
 npm start
