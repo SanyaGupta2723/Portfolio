@@ -6,7 +6,7 @@ This is a **Personal Portfolio Website** created using the **MERN-inspired tech 
 
 ## 📸 Live Preview
 
-[👉 Visit Portfolio Website](https://sanyaportfolio27.netlify.app/) *(Replace this with your deployed link)*
+[👉 Visit Portfolio Website](https://sanyaportfolio27.netlify.app/) 
 
 ---
 
